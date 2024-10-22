@@ -1,0 +1,100 @@
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.exe
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.deps.json
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.runtimeconfig.json
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.dll
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.pdb
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form1.resources
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.csproj.GenerateResource.cache
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.AssemblyInfoInputs.cache
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.AssemblyInfo.cs
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.csproj.CoreCompileInputs.cache
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.dll
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\refint\DAS_Biblioteca.dll
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.pdb
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.genruntimeconfig.cache
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\ref\DAS_Biblioteca.dll
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form2.resources
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form3.resources
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form4.resources
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form5.resources
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form6.resources
+D:\UDB Virtual\DAS901 Desarrollo de Aplicaciones con Software Propietario\3 Actividades\2 Desafio 1\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.exe
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.deps.json
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.runtimeconfig.json
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.pdb
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\OpenTK.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\OpenTK.GLControl.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form1.resources
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form2.resources
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form3.resources
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form4.resources
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form5.resources
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form6.resources
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.csproj.CopyComplete
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\refint\DAS_Biblioteca.dll
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.pdb
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Escritorio\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\ref\DAS_Biblioteca.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.exe
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.deps.json
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\DAS_Biblioteca.pdb
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\OpenTK.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\OpenTK.GLControl.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form2.resources
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form3.resources
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form4.resources
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form5.resources
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Form6.resources
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\refint\DAS_Biblioteca.dll
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.pdb
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\DAS_Biblioteca.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Biblioteca_v3\DAS_Biblioteca\DAS_Biblioteca\obj\Debug\net6.0-windows\ref\DAS_Biblioteca.dll
